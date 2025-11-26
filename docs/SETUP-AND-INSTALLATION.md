@@ -9,7 +9,7 @@
 
 ## Step-by-Step Installation
 
-### 1. Prepare Your Source Material
+### 1. (This Repository has Already done this) Prepare Your Source Material
 
 1. Open the [Claude Code OS YouTube video](https://www.youtube.com/watch?v=gujqOjzYzY8)
 2. Click "Show more" below the video to expand the description
